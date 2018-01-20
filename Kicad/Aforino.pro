@@ -1,4 +1,4 @@
-update=Fri 19 Jan 2018 11:02:35 PM CET
+update=Sat 20 Jan 2018 02:50:18 AM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=lib/jdunmire/kicad-ESP8266-master;lib/myLib;lib/kicadhowto.org
+LibDir=lib/jdunmire/kicad-ESP8266-master;lib/myLib;lib/kicadhowto.org;lib/kicad.github.io
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -63,3 +63,6 @@ LibName31=contrib
 LibName32=valves
 LibName33=lib/jdunmire/kicad-ESP8266-master/ESP8266
 LibName34=lib/kicadhowto.org/ArduProMiniTKB
+LibName35=lib/myLib/myLib
+LibName36=lib/kicad.github.io/kicad-symbols/Connector_Generic
+LibName37=lib/kicad.github.io/kicad-symbols/Connector_Generic_Shielded
