@@ -182,4 +182,27 @@ X GND 3 400 -100 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# myConn_LM2596_Male
+#
+DEF myConn_LM2596_Male LM2596- 0 40 Y N 1 F N
+F0 "LM2596-" 0 200 50 H V C CNN
+F1 "myConn_LM2596_Male" 0 -700 50 H V C CNN
+F2 "" 0 -600 50 H I C CNN
+F3 "" 0 -600 50 H I C CNN
+$FPLIST
+ Connector*:*_??x*mm*
+ Connector*:*1x??x*mm*
+ Pin?Header?Straight?1X*
+ Pin?Header?Angled?1X*
+$ENDFPLIST
+DRAW
+S 34 -595 0 -605 1 1 6 F
+S 34 105 0 95 1 1 6 F
+P 2 1 1 6 50 -600 34 -600 N
+P 2 1 1 6 50 100 34 100 N
+X Pin_1 1 200 100 150 L 50 50 1 1 P
+X Pin_2 2 200 -600 150 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 #End Library

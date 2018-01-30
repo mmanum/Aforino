@@ -24,10 +24,22 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP Conn_LM2596_Male
+D Generic connector, single row, 01x04
+K connector
+F ~
+$ENDCMP
+#
 $CMP ESP-Breatout-16Pin
 D ESP8266 ESP-13-WROOM-02 module, 18 pins, 2mm, PCB antenna
 K MODULE ESP8266 ESP-8266
 F http://l0l.org.uk/2014/12/esp8266-modules-hardware-guide-gotta-catch-em-all/
+$ENDCMP
+#
+$CMP myConn_LM2596_Male
+D Generic connector, single row, 01x04
+K connector
+F ~
 $ENDCMP
 #
 #End Doc Library

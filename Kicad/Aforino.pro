@@ -1,4 +1,4 @@
-update=Sun 21 Jan 2018 03:11:09 AM CET
+update=Mon 22 Jan 2018 01:09:02 AM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,3 +66,4 @@ LibName34=lib/myLib/myLib
 LibName35=lib/kicad.github.io/kicad-symbols/Connector_Generic
 LibName36=lib/kicad.github.io/kicad-symbols/Connector_Generic_Shielded
 LibName37=lib/Librairie_kicad_arduino/Library_schematic_shield_arduino/shield_arduino
+LibName38=lib/kicad.github.io/dc-dc
